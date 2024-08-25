@@ -143,10 +143,11 @@
   background: #ff6088;
   width: 450px;
   height: 680px;
-  bottom: 420px;
+  top: 310px;
   border-radius: 15px;
   font-weight: 500;
   border: 1px solid;
+  scroll-snap-align: center;
 }
 .playlist-header {
   color: var(--white);
